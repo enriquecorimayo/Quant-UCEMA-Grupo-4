@@ -8,3 +8,4 @@ El siguiente proyecto consitirá en la recopilación de algunos de los modelos m
 Se hará uso de la libreria Quantlib para modelar los procesos y pricear derivados. Link:
 https://www.quantlib.org/
 
+Dentro de la carpeta Modelos, podrá encontrar los notebooks en cuestión.
