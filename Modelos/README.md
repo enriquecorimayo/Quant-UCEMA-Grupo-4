@@ -1,5 +1,5 @@
 # MODELOS
-Si tiene problemas con al renderizacion de Latex o del notebook en general, dirijase directamente a los siguientes links:
+Si tiene problemas con al renderización de Latex o del notebook en general, dirijase directamente a los siguientes links:
 
 Volatility Smile, LocVol & Heston Model Calibration:
 
